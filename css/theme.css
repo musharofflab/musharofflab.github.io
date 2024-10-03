@@ -130,6 +130,7 @@ body>.navbar .brand:hover {
 
 .bs-docs-sidenav>.active>a {
 	position: relative;
+	color: #1C2C9C;
 	z-index: 2;
 	padding: 9px 15px;
 	border: 0;
